@@ -1,5 +1,5 @@
 {
-  "name": "reactstrap",
+  "name": "knapeto-reactstrap",
   "version": "4.8.0",
   "description": "React Bootstrap 4 components",
   "main": "dist/reactstrap.cjs.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/reactstrap/reactstrap.git"
+    "url": "git+ssh://git@github.com/knapeto/reactstrap.git"
   },
   "files": [
     "LICENSE",
@@ -82,9 +82,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reactstrap/reactstrap/issues"
+    "url": "https://github.com/knapeto/reactstrap/issues"
   },
-  "homepage": "https://github.com/reactstrap/reactstrap#readme",
+  "homepage": "https://github.com/knapeto/reactstrap#readme",
   "dependencies": {
     "classnames": "^2.2.3",
     "lodash.isfunction": "^3.0.8",
