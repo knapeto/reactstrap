@@ -1,5 +1,5 @@
 {
-  "name": "knapeto-reactstrap",
+  "name": "reactstrap",
   "version": "4.8.0",
   "description": "React Bootstrap 4 components",
   "main": "dist/reactstrap.cjs.js",
